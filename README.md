@@ -1,14 +1,39 @@
-# Tribute-page
-Tribute-page project exercise
+ # Project Name: Hello Velisa Africa Academy!
 
-Starting a project to create a tibute page
+# Description
 
-adding development branch
+ Creating a tribute page for Nikola Tesla.
 
-adding feature branch 
+## Built With
 
-adding files anf folders
+- HTML
+- CSS
 
-pushing to github
+## Getting Started
 
-adding HTML and CSS
+
+## Prerequisite
+
+- Install Git.
+- Install Vs code or any text editor.
+
+👤 **Author1**
+
+ 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
