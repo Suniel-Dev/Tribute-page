@@ -21,7 +21,11 @@
 
 👤 **Author1**
 
+ **Muhammed Singh**
  
+- Github: [ @Suniel-Dev](https://github.com/Suniel-Dev) 
+- Instagram: [@_ssj7._](https://www.instagram.com/_ssj7._/) 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
