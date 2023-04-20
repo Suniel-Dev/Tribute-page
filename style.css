@@ -36,10 +36,10 @@ body {
 
 span {
   line-height: 60px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
-h2{
+h2 {
   font-size: 30px;
   text-align: center;
 }
