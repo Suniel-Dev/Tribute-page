@@ -34,11 +34,12 @@ body {
   margin: 0 auto;
 }
 
-h2 {
+span {
   line-height: 60px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-h3 {
+h2{
   font-size: 30px;
   text-align: center;
 }
