@@ -11,6 +11,8 @@
 
 ## Getting Started
 
+## Live view
+[Live view](https://development--brilliant-unicorn-ba48db.netlify.app/)
 
 ## Prerequisite
 
