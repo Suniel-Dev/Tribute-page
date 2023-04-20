@@ -1,4 +1,4 @@
- # Project Name: Hello Velisa Africa Academy!
+ # Project Name: Tribute page for Nikola Tesla
 
 # Description
 
